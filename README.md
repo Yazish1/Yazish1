@@ -4,5 +4,5 @@ I'm Yazish, a student studying Computer Science and Data Science, with a growing
 You can also check out my LeetCode for problem-solving practice and my Devpost for project submissions and hackathon work.
 
 ## Tools & Tech
-- Python (Python3), Java, HTML, CSS, R, Kivy
+- Python, Java, HTML, CSS, R, Kivy
 - Vercel
