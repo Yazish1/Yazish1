@@ -1,4 +1,4 @@
-![GitHub_Masterhead]("assets/gitmasterhead.gif")
+![GitHub_Masterhead](assets/gitmasterhead.gif)
 
 ## Hey there 👋
 
