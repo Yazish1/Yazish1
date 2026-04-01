@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/masterhead.gif" width="100%"/>
+  <img src="assets/masterhead.gif" width="50%"/>
 </div>
 
 <br/>
