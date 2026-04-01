@@ -1,12 +1,36 @@
-![GitHub_Masterhead](assets/masterhead.gif)
+<div align="center">
+    <img src="assets/masterhead.gif" width=100%/>
+</div>
+
+<br/>
 
 ## Hey there 👋
 
 I'm Yazish, a student studying Computer Science and Data Science, with a growing interest in areas like Market & Data Analysis and Discrete Mathematics. I enjoy exploring concepts that challenge the way I think, and I'm always looking for opportunities to learn more and build on what I know. This GitHub is where I track that progress and experiment with new ideas.
 
-You can also check out my LeetCode for problem-solving practice and my Devpost for project submissions and hackathon work.
+</br>
 
 ## Tools & Tech
 
-- Python, C, Java, JavaScript
-- SQlite, Vercel
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+## Stats
+
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/Yazish?theme=dark&font=Karma&ext=heatmap" width="48%"/>
+</div>
+
+<br/>
+
+## Links
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yazish/)
