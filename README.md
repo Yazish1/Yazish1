@@ -33,7 +33,7 @@ I'm a student studying Computer Science and Data Science. I enjoy exploring conc
 
 </td>
 <td valign="top" align="center">
-
+Currently reading
 <a href="https://www.goodreads.com/user/show/203298364"><img src="assets/currently-reading.svg" width="230" /></a>
 
 </td>
