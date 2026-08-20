@@ -10,10 +10,7 @@ I'm a student studying Computer Science and Data Science. I enjoy exploring conc
 
 </div>
 
-<br/>
-
 <div align="center">
-
 <h2>Tools & Tech</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,8 +22,6 @@ I'm a student studying Computer Science and Data Science. I enjoy exploring conc
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <h2>Stats</h2>
@@ -35,8 +30,6 @@ I'm a student studying Computer Science and Data Science. I enjoy exploring conc
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <h2>Links</h2>
@@ -44,8 +37,6 @@ I'm a student studying Computer Science and Data Science. I enjoy exploring conc
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yazish/)
 
 </div>
-
-<br/>
 
 <div align="center">
 
