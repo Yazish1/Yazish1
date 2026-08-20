@@ -31,10 +31,6 @@ I'm a student studying Computer Science and Data Science. I enjoy exploring conc
 
 <img src="https://leetcard.jacoblin.cool/Yazish?theme=dark&font=Karma&ext=heatmap" width="380"/>
 
-<a href="https://leetcode.com/u/Yazish/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
 </td>
 <td valign="top" align="center">
 
