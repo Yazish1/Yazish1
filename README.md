@@ -29,11 +29,15 @@ I'm a student studying Computer Science and Data Science. I enjoy exploring conc
 <tr>
 <td valign="top" align="center">
 
-<img src="https://leetcard.jacoblin.cool/Yazish?theme=dark&font=Karma&ext=heatmap" width="380"/>
+<strong>LeetCode</strong>
+<br/>
+<a href="https://leetcode.com/u/Yazish/"><img src="https://leetcard.jacoblin.cool/Yazish?theme=dark&font=Karma&ext=heatmap" width="380"/></a>
 
 </td>
 <td valign="top" align="center">
-Currently reading
+
+<strong>Currently Reading</strong>
+<br/>
 <a href="https://www.goodreads.com/user/show/203298364"><img src="assets/currently-reading.svg" width="230" /></a>
 
 </td>
