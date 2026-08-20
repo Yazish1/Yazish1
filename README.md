@@ -55,6 +55,10 @@ I'm a student studying Computer Science and Data Science. I enjoy exploring conc
 
 <h2>Currently Reading</h2>
 <!-- GOODREADS-LIST:START -->
+- [The Metamorphosis](https://www.goodreads.com/review/show/8838703070?utm_medium=api&utm_source=rss) by Franz Kafka (unrated)
+- [Beyond Good and Evil](https://www.goodreads.com/review/show/8838702843?utm_medium=api&utm_source=rss) by Friedrich Nietzsche (unrated)
+- [The Brothers Karamazov](https://www.goodreads.com/review/show/8838702563?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (unrated)
+- [The Trial](https://www.goodreads.com/review/show/8838702086?utm_medium=api&utm_source=rss) by Franz Kafka (unrated)
 <!-- GOODREADS-LIST:END -->
 
 </div>
