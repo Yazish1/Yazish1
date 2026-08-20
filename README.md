@@ -39,8 +39,6 @@ I'm a student studying Computer Science and Data Science. I enjoy exploring conc
 
 <div align="center">
 
-<div align="center">
-
 <h2>Links</h2>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yazish/)
@@ -52,11 +50,7 @@ I'm a student studying Computer Science and Data Science. I enjoy exploring conc
 <div align="center">
 
 <h2>Currently Reading</h2>
-<!-- GOODREADS-LIST:START -->
-- [The Metamorphosis](https://www.goodreads.com/review/show/8838703070?utm_medium=api&utm_source=rss) by Franz Kafka (unrated)
-- [Beyond Good and Evil](https://www.goodreads.com/review/show/8838702843?utm_medium=api&utm_source=rss) by Friedrich Nietzsche (unrated)
-- [The Brothers Karamazov](https://www.goodreads.com/review/show/8838702563?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (unrated)
-- [The Trial](https://www.goodreads.com/review/show/8838702086?utm_medium=api&utm_source=rss) by Franz Kafka (unrated)
-<!-- GOODREADS-LIST:END -->
+
+<a href="https://www.goodreads.com/user/show/203298364"><img src="https://goodreads-readme.vercel.app/api/book?id=203298364" alt="GoodReads reading" width="350" /></a>
 
 </div>
