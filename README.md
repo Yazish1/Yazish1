@@ -2,6 +2,7 @@
   <img src="assets/masterhead.gif" width="50%"/>
 </div>
 
+</br>
 <div align="center">
 
 I'm a student studying Computer Science and Data Science. I enjoy exploring concepts that challenge the way I think, and I'm always looking for opportunities to learn more and build on what I know. This GitHub is where I track that progress and experiment with new ideas.
