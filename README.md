@@ -33,14 +33,6 @@ I'm a student studying Computer Science and Data Science. I enjoy exploring conc
 
 <div align="center">
 
-<h2>Links</h2>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yazish/)
-
-</div>
-
-<div align="center">
-
 <h2>Currently Reading</h2>
 
 <a href="https://www.goodreads.com/user/show/203298364"><img src="assets/currently-reading.svg" width="340" /></a>
