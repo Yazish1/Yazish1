@@ -8,7 +8,7 @@
 
 <h1>Yazish</h1>
 
-I'm a student studying Computer Science and Data Science, with a growing interest in areas like Market & Data Analysis and Discrete Mathematics. I enjoy exploring concepts that challenge the way I think, and I'm always looking for opportunities to learn more and build on what I know. This GitHub is where I track that progress and experiment with new ideas.
+I'm a student studying Computer Science and Data Science. I enjoy exploring concepts that challenge the way I think, and I'm always looking for opportunities to learn more and build on what I know. This GitHub is where I track that progress and experiment with new ideas.
 
 </div>
 
@@ -41,8 +41,20 @@ I'm a student studying Computer Science and Data Science, with a growing interes
 
 <div align="center">
 
+<div align="center">
+
 <h2>Links</h2>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yazish/)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h2>Currently Reading</h2>
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 </div>
